@@ -49,7 +49,7 @@ else {
     console.log("Veuillez repondre a cette question : Avez vous récemment été en contact avec une personne à risque (Oui ou Non) ? Inscrivez bien soit la reponse Oui ou la réponse Non");
 }
 
-//Analyse tableau 
+//Analyse tableau <3
 
 for (i=0; i < tab.length; i++) {
     

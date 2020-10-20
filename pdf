@@ -1,15 +1,13 @@
 Cahier des Charges
-
-Observation :
 Information :
-Avec la pandémie qui ruine nos vies sociales en extérieur, nous, DANESI Arthur, DENASI Nathan, KWIZERA Dorian, VAN PEBORGH Gwenaël, ROUBAUD Yannick devons faire un travail de groupe qui est fait pour aider les gens si ils ont été en contact avec quelqu’un qui a le covid-19 en lui indiquant les centres de sa provinces.
-
-La personne qui visite le site doit inscrire :
+Avec la pandémie qui ruine nos vies sociales en extérieur, nous, DANESI Arthur, DENASI Nathan, KWIZERA Dorian, VAN PEBORGH Gwenaël, ROUBAUD Yannick devons faire un projet qui est fait pour aider les gens s’ils ont été en contact avec quelqu’un qui a le covid-19 en lui indiquant les centres de sa province ou de suivre les bons gestes.
+Observation :
+La personne qui utilise le programme doit inscrire :
 -	Son nom ; 
 -	Son prénom ;
 -	Son code postal ;
 -	S’il été en contact avec une personne atteinte du covid-19 ;
-Et le site lui renvoie :
+Et le programme lui renvoie :
 -	S’il est positif :
 o	Les centres de la province ; 
 -	S’il est négatif :

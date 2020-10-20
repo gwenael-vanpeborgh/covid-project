@@ -21,6 +21,6 @@ Code :
 -	A l’aide de boucles (while / for), de tableaux (Array) et de conditions (if / else) vous devez retrouver de quelles provinces il est en fonction du code postal introduit. 
 Et mettre une instruction si le code postal n’est pas valide ou s’il n'est pas un code postal ce situant en Wallonie.
 -	Ensuite, si la personne a été en contact avec une personne atteinte du covid-19.
-Vous devez lui demander d’aller se faire tester et vous devez lui donner la liste des centres de la province dans laquelle il se trouve. 
+Vous devez lui demander d’aller se faire tester et vous devez lui donner la liste des centres principaux de la province dans laquelle il se trouve. 
 S’il n’a pas rencontré quelqu’un atteint du covid-19. Vous devez lui dire de continuer les gestes barrière, se laver régulièrement les mains et de porter un masque.
 Et mettre une instruction au cas où il répond autre chose que oui ou non à la question « S’il été en contact avec une personne atteinte du covid-19 ».

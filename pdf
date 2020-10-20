@@ -1,0 +1,11 @@
+Cahier des Charges
+Vous devez crée un code et une page.
+ A l’aide d’une boucle vous devez pouvoir inscrire :
+-	Son nom ; 
+-	Son prénom ;
+-	Son code postal ;
+-	S’il été en contact avec une personne atteinte du covid-19 ;
+
+Ensuite, le code doit renvoyer des informations. 
+Ces informations sont : 
+-	Les centres de la province ; 

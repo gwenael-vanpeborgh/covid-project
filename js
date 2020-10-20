@@ -61,7 +61,6 @@ let tabProv = [tabBw, tabNam, tabLux, tabHain, tabLieg];
 if (lieuResidence == bw) {
     for (i=0; i < tabProv.length; i++) {
         if (tabProv[i] <= 1300 && tabProv[i] >= 1495) {
-            if
             let centreProv = 
    
         

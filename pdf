@@ -7,15 +7,15 @@ La personne qui visite le site doit inscrire :
 -	S’il été en contact avec une personne atteinte du covid-19. 
 Et le site lui renvoie 
 -	S’il est positif
-o	Les centres de la province 
+o	Les centres de la province dans laquelle il habite
 -	S’il est négatif :
 o	Continuer les gestes barrière
 o	Se laver régulièrement les mains 
 o	Porter un masque 
 
 Code :
--	Vous devez crée différentes variables pour que la personne puisse entre son nom, son prénom, son code postal et s’il a été en contact avec quelqu’un a risque.
--	Vous devez crée différentes variables pour les différentes régions.
--	A l’aide des boucles vous devez retrouver de quelles provinces il est. Et mettre une instruction si le code postal n’est pas valide.
--	Ensuite, si la personne a été en contact avec une personne atteinte du covid-19. Lui 
+-	Vous devez crée différentes variables pour que la personne puisse introduire son nom, son prénom, son code postal et s’il a été en contact avec quelqu’un a risque (via des prompt).
+-	Vous devez crée différentes variables pour initier les différentes provinces de la Wallonie.
+-	A l’aide des boucles et de tableaux, vous devez retrouver de quelles provinces il est en fonction du code postal introduit. Vous devez ensuite mettre une instruction qui indique si le code postal n’est pas valide ou si il n'est pas un code postale ce situant en Wallonie.
+-	Ensuite, si la personne a été en contact avec une personne atteinte du covid-19. Lui réferer un ou plusieurs centres se trouvant dans sa province. 
  

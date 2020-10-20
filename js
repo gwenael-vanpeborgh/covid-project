@@ -47,7 +47,10 @@ else if ( risque == "Non" ) {
 }
 else {
     console.log("Veuillez repondre a cette question : Avez vous récemment été en contact avec une personne à risque (Oui ou Non) ? Inscrivez bien soit la reponse Oui ou la réponse Non");
-    }
-//lol//mdr
+}
+
+//Analyse tableau 
+
+for (i=0; i < tab.length; i++) {
     
 

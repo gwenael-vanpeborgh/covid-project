@@ -1,4 +1,4 @@
-# projet-TP04
+# projet-TP04 aide contre le covid-19
 Cahier des Charges
 Information :
 Avec la pandémie qui ruine nos vies sociales en extérieur, nous, DANESI Arthur, DENASI Nathan, KWIZERA Dorian, VAN PEBORGH Gwenaël, ROUBAUD Yannick avons décider de créer un projet qui consiste à aider les gens qui ont été en contact avec quelqu’un qui a le covid-19 en lui indiquant les centres de sa province et si il n'est pas contaminé, de suivre les bons gestes.

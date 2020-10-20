@@ -51,6 +51,13 @@ else {
 
 //Analyse tableau <3
 
-for (i=0; i < tab.length; i++) {
+for (i=0; i < tabProv.length; i++) {
+
+let tabBw = [1300, 1340, 1370, 1390, 1400, 1480, 1495];
+let tabNam = [5070, 5080, 5100, 5500, 5555, 5650];
+let tabLieg = [4000, 4100, 4300, 4500, 4540, 4600, 4800, 4900, 4960];
+let tabLux = [6600, 6690, 6700, 6760, 6800, 6900];
+let tabHain = [6060, 6460, 7000, 7060, 7100, 7130, 7500, 7800, 7900];
+let tabProv = [tabBW, tabNam, tabLux, tabHain, tabLieg];
     
 

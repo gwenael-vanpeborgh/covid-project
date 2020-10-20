@@ -1,11 +1,21 @@
 Cahier des Charges
-Vous devez crée un code et une page.
- A l’aide d’une boucle vous devez pouvoir inscrire :
--	Son nom ; 
--	Son prénom ;
--	Son code postal ;
--	S’il été en contact avec une personne atteinte du covid-19 ;
+Observation :
+La personne qui visite le site doit inscrire :
+-	Son nom 
+-	Son prénom
+-	Son code postal
+-	S’il été en contact avec une personne atteinte du covid-19. 
+Et le site lui renvoie 
+-	S’il est positif
+o	Les centres de la province 
+-	S’il est négatif :
+o	Continuer les gestes barrière
+o	Se laver régulièrement les mains 
+o	Porter un masque 
 
-Ensuite, le code doit renvoyer des informations. 
-Ces informations sont : 
--	Les centres de la province ; 
+Code :
+-	Vous devez crée différentes variables pour que la personne puisse entre son nom, son prénom, son code postal et s’il a été en contact avec quelqu’un a risque.
+-	Vous devez crée différentes variables pour les différentes régions.
+-	A l’aide des boucles vous devez retrouver de quelles provinces il est. Et mettre une instruction si le code postal n’est pas valide.
+-	Ensuite, si la personne a été en contact avec une personne atteinte du covid-19. Lui 
+ 

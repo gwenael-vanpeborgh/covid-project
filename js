@@ -250,9 +250,9 @@ if ( risque == "Oui" ) {
     console.log("Votre province est : " + lieuResidence + " le centre le plus proche se trouve au code postale suivant:" + proche + ".");
 }
 else if ( risque == "Non" ) {
-    console.log("Bravo bogosse continue t cho");
+    console.log("Continuer comme ça et n'oublier pas les gestes barrières ainsi que le port du masque. C'est ensemble que nous vaincrons la pandémie");
 }
 else {
-    console.log("Veuillez repondre a cette question : Avez vous récemment été en contact avec une personne à risque (Oui ou Non) ? Inscrivez bien soit la reponse Oui ou la réponse Non");
+    console.log("Veuillez répondre a cette question : Avez vous récemment été en contact avec une personne à risque (Oui ou Non) ? Inscrivez bien soit la réponse Oui ou la réponse Non");
 }  
 
